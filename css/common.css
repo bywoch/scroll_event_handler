@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+* {margin: 0 auto; padding: 0; box-sizing:border-box;}
+html {overflow-y: scroll;}
+
+/*-- ↓ ※ edu ※ ↓ --*/
+#header.edu_hdr {height: 40px;}
+#header.edu_hdr .header_bx {display: none;}
+.edu_wrap {width: 100%; max-width: 1920px; margin: 0 auto; padding: 0; overflow: hidden;}
+#content.edu_bx {width: 100%; padding: 0; position: relative;}
+.edu_01 {height: 766px; background: url('../images/edu_01.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_02 {height: 1408px; background: url('../images/edu_02.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_03 {height: 1259px; background: url('../images/edu_03.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_04 {height: 1487px; background: url('../images/edu_04.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_05 {height: 1343px; background: url('../images/edu_05.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_06 {height: 1929px; background: url('../images/edu_06.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_07 {height: 978px; background: url('../images/edu_07.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.edu_08 {height: 979px; background: url('../images/edu_08.jpg') 0 0 no-repeat; -webkit-background-size: cover; background-size: cover; background-position: center;}
+.sub .edu_bx .edu_01 .sub_title {padding: 28px 0; font-size: 26px; font-weight: 900; font-family: 'NanumBarunGothic', Arial, "Helvetica Neue", Helvetica, sans-serif; position: absolute; top: 0; left: 0; width: 100%; text-align: center;}
